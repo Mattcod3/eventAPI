@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "title": "Party",
+      "description": "PartyPartyPartyPartyPartyPartyPartyPartyPartyPartyPartyParty",
+      "category": "Electronic",
+      "status": "Confirmed",
+      "organizer": "2",
+      "dateAdded": "2022-11-10",
+      "picture": "https://secretsydney.com/wp-content/uploads/2023/01/Hotel-Morris_Bar-Morris-Render-3-1024x778.jpg",
+      "interestedBuyers": ["4"],
+      "Location": ""
+    },
+    {
+      "id": "2",
+      "title": "Team Building",
+      "description": "TeamTeamTeamTeamTeamTeam",
+      "category": "Garments",
+      "status": "Confirmed",
+      "organizer": "1",
+      "dateAdded": "2022-01-15",
+      "picture": "https://blog.visitacostadelsol.com/hubfs/a-12jul.png",
+      "interestedBuyers": [],
+      "Location": ""
+    },
+    {
+      "id": "3",
+      "title": "Meeting",
+      "description": "MeetingMeetingMeetingMeetingMeetingMeetingMeetingMeetingMeetingMeeting",
+      "category": "Furniture",
+      "status": "Cancelled",
+      "organizer": "3",
+      "dateAdded": "2022-08-10",
+      "picture": "https://www.targettraining.eu/wp-content/uploads/2019/02/meetings-practice.jpg",
+      "interestedBuyers": [],
+      "Location": ""
+    }
+    
+  ]
