@@ -2,38 +2,46 @@
     {
       "id": "1",
       "title": "Party",
-      "description": "PartyPartyPartyPartyPartyPartyPartyPartyPartyPartyPartyParty",
-      "category": "Electronic",
+      "description": "Come celebrate with us at our unforgettable party! We're throwing a lively bash filled with great music, delicious food and drinks, and plenty of fun activities to keep you entertained. ",
+      "category": "Party",
       "status": "Confirmed",
       "organizer": "2",
       "dateAdded": "2022-11-10",
       "picture": "https://secretsydney.com/wp-content/uploads/2023/01/Hotel-Morris_Bar-Morris-Render-3-1024x778.jpg",
       "interestedBuyers": ["4"],
-      "Location": ""
+      "Location": "",
+      "register": false,
+      "activity": "Game of charades"
+
+      
     },
     {
       "id": "2",
       "title": "Team Building",
-      "description": "TeamTeamTeamTeamTeamTeam",
-      "category": "Garments",
+      "description": "Join us for an exciting team building event that will challenge and inspire you! Our expert facilitators will lead you and your team through a series of fun and engaging activities designed to build trust, communication, and teamwork.",
+      "category": "TeamBuilding",
       "status": "Confirmed",
       "organizer": "1",
       "dateAdded": "2022-01-15",
       "picture": "https://blog.visitacostadelsol.com/hubfs/a-12jul.png",
       "interestedBuyers": [],
-      "Location": ""
+      "Location": "",
+      "register": false,
+      "activity": "Escape Room"
     },
     {
       "id": "3",
       "title": "Meeting",
-      "description": "MeetingMeetingMeetingMeetingMeetingMeetingMeetingMeetingMeetingMeeting",
-      "category": "Furniture",
+      "description": "Please join us for an important meeting to discuss the progress of our current project. This meeting will provide an opportunity for team members to share updates, discuss challenges, and brainstorm solutions.",
+      "category": "Meeting",
       "status": "Cancelled",
       "organizer": "3",
       "dateAdded": "2022-08-10",
       "picture": "https://www.targettraining.eu/wp-content/uploads/2019/02/meetings-practice.jpg",
       "interestedBuyers": [],
-      "Location": ""
+      "Location": "",
+      "register": false,
+      "activity": "Brainstorming"
     }
     
   ]
